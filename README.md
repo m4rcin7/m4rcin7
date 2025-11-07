@@ -40,7 +40,6 @@
 </div>
 
 ###
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/m4rcin7/m4rcin7/output/snake.svg" alt="Snake animation" />
 
